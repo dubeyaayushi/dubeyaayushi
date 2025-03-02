@@ -1,4 +1,4 @@
- [![MasterHead](https://i.pinimg.com/originals/1b/3c/58/1b3c5821c4ef798f196b30cc3eb46ac2.gif)
+ ![MasterHead](https://i.pinimg.com/originals/1b/3c/58/1b3c5821c4ef798f196b30cc3eb46ac2.gif)
 
 <h1 align="center">Hi 👋, I'm Aayushi Dubey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
